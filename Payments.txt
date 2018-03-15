@@ -1,0 +1,21 @@
+Room No. :12
+Month :january
+Payment Amount :6000.0
+Remaining Payment :3000.0
+Room No. :12
+Month :2
+Payment Amount :9000.0
+Remaining Payment :0.0
+Room No. :122
+Month :12
+Payment Amount :9000.0
+Remaining Payment :0.0
+Room No. :12
+Month :36
+Payment Amount :6999.0
+Remaining Payment :2001.0
+Room No. :47
+Month :june
+Payment Amount :9000.0
+Remaining Payment :0.0
+---------------------------------------------------
